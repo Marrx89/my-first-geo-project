@@ -14,4 +14,4 @@ This repository contains a simple geospatial analysis workflow using Python.
 - Python
 - Jupyter Notebook
 - Git
-- Gi
+- Github
