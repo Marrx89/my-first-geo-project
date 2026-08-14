@@ -1,3 +1,4 @@
+# INTRO VARIABLES AND DATA TYPES
 # A. This is a sample Python script that defines a variable `num_points` and assigns it the value of 120. It then prints the value of `num_points` to the console.
 num_points = 120
 print(num_points)
